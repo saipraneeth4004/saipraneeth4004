@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 📊 GitHub Stats  
 [![GitHub Streak](https://streak-stats.demolab.com?user=saipraneeth4004&theme=tokyonight)](https://git.io/streak-stats)  
-[![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saipraneeth4004&show_icons=true&theme=radical)](https://github.com/saipraneeth4004/)  
+[![saipraneeth GitHub Stats](https://github-readme-stats.vercel.app/api?username=saipraneeth4004&show_icons=true&theme=radical)](https://github.com/saipraneeth4004/)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saipraneeth4004&layout=compact&theme=tokyonight)](https://github.com/saipraneeth4004/)
 
 
