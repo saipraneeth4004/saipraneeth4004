@@ -9,19 +9,26 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=saipraneeth4004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-  <br>
-  <a href="https://github.com/saipraneeth4004">
-    <img src="https://github-readme-stats.vercel.app/api?username=saipraneeth4004&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <br>
-  <a href="https://github.com/saipraneeth4004">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipraneeth4004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.vercel.app/?user=saipraneeth4004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/saipraneeth4004">
+        <img src="https://github-readme-stats.vercel.app/api?username=saipraneeth4004&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/saipraneeth4004">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipraneeth4004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
