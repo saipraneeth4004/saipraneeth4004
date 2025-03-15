@@ -11,7 +11,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saipraneeth4004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.vercel.app/?user=saipraneeth4004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
   <br>
   <a href="https://github.com/saipraneeth4004">
@@ -24,6 +24,7 @@
 </p>
 
 ---
+
 
 ### 🚀 My Tech Stack
 <p align="center">
