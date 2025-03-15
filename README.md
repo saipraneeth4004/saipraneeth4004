@@ -1,14 +1,14 @@
-<h1 align="center">Hi, I'm Saipraneeth 👋</h1>
+# Hi, I'm Saipraneeth 👋
 
-### 🚀 About Me
-- 👀 Passionate about **coding & problem-solving**
-- 🌱 Currently learning **Machine Learning**
-- 💡 Open to **collaborations** on exciting projects!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/saipraneeth-bachampally/) | [LeetCode](https://leetcode.com/u/klu2300031549/) | 📧 saipraneeth707524@gmail.com
+## About Me
+- 🔭 I’m currently working on cool projects
+- 🌱 I’m learning **Machine Learning**
+- 👯 I’m looking to collaborate on exciting projects
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/saipraneeth-bachampally/) | [LeetCode](https://leetcode.com/u/klu2300031549/) | **Email:** saipraneeth707524@gmail.com
 
 ---
 
-### 📊 GitHub Stats
+## GitHub Stats
 <table align="center">
   <tr>
     <td>
@@ -29,27 +29,38 @@
   </tr>
 </table>
 
-
 ---
 
-
-### 🚀 My Tech Stack
+## Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,c,cpp,sqlite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,c,cpp,git,github" alt="Tech Stack" />
 </p>
 
 ---
 
-### 📈 Activity Graph
+## GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saipraneeth4004&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saipraneeth4004&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### 🤝 Let's Connect
+## Visitor Count
 <p align="center">
-  <a href="https://www.linkedin.com/in/saipraneeth-bachampally/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/klu2300031549/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:saipraneeth707524@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=saipraneeth4004&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
+## Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/saipraneeth-bachampally/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/klu2300031549/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:saipraneeth707524@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
