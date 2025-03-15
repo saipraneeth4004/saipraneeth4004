@@ -33,7 +33,7 @@
 
 ## Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,c,cpp,git,github" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,c,git,github" alt="Tech Stack" />
 </p>
 
 ---
