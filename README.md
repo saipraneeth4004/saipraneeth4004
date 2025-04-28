@@ -1,6 +1,6 @@
 # Hi, I'm Saipraneeth 👋
 
-## About Me
+## About Me ##
 - 🔭 I’m currently working on cool projects
 - 🌱 I’m learning **MACHINE LEARNING**
 - 👯 I’m looking to collaborate on exciting projects
