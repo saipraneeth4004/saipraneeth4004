@@ -3,7 +3,6 @@
 ## About Me ##
 
 - 🔭 I’m currently working on cool projects
-- 🌱 I’m learning **MACHINE LEARNING**
 - 👯 I’m looking to collaborate on exciting projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/saipraneeth-bachampally/) | [LeetCode](https://leetcode.com/u/klu2300031549/) | **Email:** saipraneeth707524@gmail.com
 
