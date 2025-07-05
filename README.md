@@ -7,7 +7,6 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/saipraneeth-bachampally/) | [LeetCode](https://leetcode.com/u/klu2300031549/) | **Email:** saipraneeth707524@gmail.com
 
 --
-
 ## GitHub Stats
 <table align="center">
   <tr>
