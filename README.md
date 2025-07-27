@@ -1,4 +1,4 @@
-# Hi, I'm Saipraneeth 👋
+# Hi, I'm Saipraneeth 
 
 ## About Me ##
 
