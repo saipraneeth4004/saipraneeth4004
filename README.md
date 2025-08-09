@@ -1,7 +1,6 @@
 # Hi, I'm Saipraneeth 
 
 ## About Me ##
-
 - 🔭 I’m currently working on cool projects
 - 👯 I’m looking to collaborate on exciting projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/saipraneeth-bachampally/)  | **Email:** saipraneeth707524@gmail.com
