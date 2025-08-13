@@ -1,5 +1,4 @@
 # Hi, I'm Saipraneeth 
-
 ## About Me ##
 - 🔭 I’m currently working on cool projects
 - 👯 I’m looking to collaborate on exciting projects
