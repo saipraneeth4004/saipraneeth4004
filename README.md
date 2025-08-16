@@ -8,7 +8,6 @@
 ## GitHub Stats
 <table align="center">
   <tr>
-  
    <td>
     
       <a href="https://git.io/streak-stats">
