@@ -1,4 +1,4 @@
-# Hi, I'm Saipraneeth 
+# Hi, I'm Saipraneeth B
 ## About Me ##
 - 🔭 I’m currently working on cool projects.
 - 👯 I’m looking to collaborate on exciting projects.
