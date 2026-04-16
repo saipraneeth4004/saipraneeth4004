@@ -1,12 +1,16 @@
 # Hi, I'm Saipraneeth B
 ## About Me ##
-- 🔭 I’m currently working on cool projects.
 - 👯 I’m looking to collaborate on exciting projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/saipraneeth-bachampally/)  | **Email:** saipraneeth707524@gmail.com
 - coding profiles | [LeetCode](https://leetcode.com/u/saipraneeth31549/)
 
+-- 
+🚧 Currently Working On
+🤖 Generative AI (Gen AI) applications
+🧠 AI-powered backend systems
+📊 Improving problem-solving with DSA
+-- 
 
---
 ## GitHub Stats
 <table align="center">
   <tr>
