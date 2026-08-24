@@ -1,115 +1,67 @@
-Hi, I'm Saipraneeth B 👋
+# Hi, I'm Saipraneeth B
+## About Me ##
+- 👯 I’m looking to collaborate on exciting projects.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/saipraneeth-bachampally/)  | **Email:** saipraneeth707524@gmail.com
+- coding profiles | [LeetCode](https://leetcode.com/u/saipraneeth31549/)
 
-Computer Science Engineering Student | Full-Stack Developer | Generative AI Enthusiast
-
-I'm a CSE student who enjoys building full-stack applications,
-exploring Generative AI, and solving problems using DSA.
-
-🔭 Currently working on Generative AI applications
-
-🤖 Building AI-powered backend systems
-
-🧠 Improving problem-solving and DSA
-
-👯 Looking to collaborate on exciting projects
-
-📫 Reach me through LinkedIn or Email
-
-🚀 What I'm Working On
-
-🤖 Generative AI & LLM applications
-
+-- 
+🚧 Currently Working On
+🤖 Generative AI (Gen AI) applications
 🧠 AI-powered backend systems
+📊 Improving problem-solving with DSA
+-- 
 
-🌐 MERN stack applications
-
-📊 Data Structures & Algorithms
-
-🔗 APIs, real-time applications and backend development
-
-🛠️ Tech Stack
-
+## GitHub Stats
+<table align="center">
+  <tr>
+   <td>  
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.vercel.app/?user=saipraneeth4004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/saipraneeth4004">
+        <img src="https://github-readme-stats.vercel.app/api?username=saipraneeth4004&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/saipraneeth4004">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipraneeth4004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
+---
+## Tech Stack
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,sqlite,python,java,c,git,github,docker,vite" alt="Tech Stack" />{=html}
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,c,git,github" alt="Tech Stack" />
 </p>
 
-📊 GitHub Stats
+---
 
+## GitHub Trophies
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=saipraneeth4004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats" />{=html}
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saipraneeth4004&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />{=html}
-
+  <img src="https://github-profile-trophy.vercel.app/?username=saipraneeth4004&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
+---
+
+## Visitor Count
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saipraneeth4004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />{=html}
-
+  <img src="https://komarev.com/ghpvc/?username=saipraneeth4004&style=flat-square" alt="Profile Views" />
 </p>
 
-🏆 GitHub Trophies
+---
 
+## Let's Connect ##
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saipraneeth4004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies" />{=html}
-
-</p>
-
-💻 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/saipraneeth31549/">{=html}
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />{=html}
-</a>{=html}
-
-</p>
-
-🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/saipraneeth-bachampally/">{=html}
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />{=html}
-</a>{=html} <a href="mailto:saipraneeth707524@gmail.com">{=html}
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />{=html}
-</a>{=html}
-<a href="https://leetcode.com/u/saipraneeth31549/">{=html}
-<img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />{=html}
-</a>{=html}
-
-</p>
-
-👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=saipraneeth4004&style=for-the-badge&color=blue" alt="Profile Views" />{=html}
-
-</p>
-
-⭐ Featured Projects
-
-🤖 HireMatch --- AI Resume Analyzer
-
-AI-powered resume analysis application built with the MERN stack and
-Google Gemini.
-
-💰 SplitLedger --- Real-Time Expense Tracker
-
-Full-stack expense management application with real-time bill splitting
-and expense tracking.
-
-🧠 Checklist Automation Agent
-
-AI automation project using LangChain and Gemini for intelligent
-task/checklist processing.
-
-<p align="center">
-
-<b>{=html}💡 Build. Learn. Solve. Repeat. 🚀</b>{=html}
-
+  <a href="https://www.linkedin.com/in/saipraneeth-bachampally/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/klu2300031549/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:saipraneeth707524@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
