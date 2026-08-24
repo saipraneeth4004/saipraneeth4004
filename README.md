@@ -39,13 +39,6 @@
 
 ---
 
-## GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saipraneeth4004&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</p>
-
----
-
 ## Visitor Count
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saipraneeth4004&style=flat-square" alt="Profile Views" />
